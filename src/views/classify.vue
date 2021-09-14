@@ -42,7 +42,7 @@ export default {
 
 <style lang="less" scoped>
 .search-btn {
-  position: fixed;
+  position: absolute;
   width: 355px;
   height: 33px;
   line-height: 33px;
